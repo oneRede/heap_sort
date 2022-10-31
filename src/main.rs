@@ -93,5 +93,4 @@ fn main() {
     data = heap_sort(data);
     println!("{:?}", data);
     heap_sort_2(data)
-    
 }
